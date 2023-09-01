@@ -73,7 +73,7 @@ Aucun framework ne devra être utilisé, en revanche l’utilisation de SASS ser
 
 ## Lien du projet 
 
-- [x] [Le code a été versionné sur Git et déployé sur GitHub à l'addresse suivante:](https://djaziraoc.github.io/dynamisez-une-page-web-avec-des-animations-css/index.html)
+- [x] Le code a été versionné sur Git et déployé sur GitHub à l'addresse suivante:[lien](https://djaziraoc.github.io/dynamisez-une-page-web-avec-des-animations-css/index.html)
 
 ## Evaluation
 -> Projet validé
